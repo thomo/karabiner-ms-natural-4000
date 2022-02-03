@@ -2,6 +2,7 @@
 
 Provides complex rules for [Karabiner Elements](https://karabiner-elements.pqrs.org/) to map some keys on the _Microsoft Natural Keyboard 4000 German_ to the keyboard layout on it.
 
+
 It provides separate rules for the mapping of:
 
 - at `@` - mapped to option + `q`
@@ -11,6 +12,8 @@ It provides separate rules for the mapping of:
 - braces `{` `[` `]` `}` - mapped to option + `7` `8` `9` `0`
 
 The mapping is defined for both option keys - left and right.
+
+![Rules](complex_rules.png)
 ## Installation
 
 - install Karabiner Elements
