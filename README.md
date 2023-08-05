@@ -19,7 +19,9 @@ The mapping is defined for both option keys - left and right.
 - install Karabiner Elements
 - copy the file `ms_natural_4000_german.json` to `.config/karabiner/assets/complex_modifications`
 - (optional) swap the order of the windows and Alt keys; and Alt Gr and application keys - after doing this the order of the option and command key is the same as on a mac keyboard. ![swap option and command](swap_option_command.png)
-
+- (optional) swap top left key with bottom left key (see picture) on internal keyboard 
+  ![swapped keys](swapped_left_keys.png) ![swap left keys](swap_left_keys.png)
+  
 Tested on
 
 - macOS Montery with Karabiner Elements version 14.3
