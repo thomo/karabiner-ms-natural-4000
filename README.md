@@ -22,7 +22,8 @@ The mapping is defined for both option keys - left and right.
 - (optional) swap top left key with bottom left key (see picture) on internal keyboard 
   ![swapped keys](swapped_left_keys.png) ![swap left keys](swap_left_keys.png)
   
-Tested on
+Used/Tested on
 
+- macOS Ventura 13.4 with Karabiner Elements version 14.12.0
 - macOS Montery with Karabiner Elements version 14.3
 - macOS High Sierra with Karabiner Elements version 12.10
