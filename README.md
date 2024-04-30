@@ -26,6 +26,7 @@ The mapping is defined for both option keys - left and right.
   
 ## Used/Tested on
 
+- macOS Sonoma 14.4.1 with Karabiner Elements version 14.13.0
 - macOS Ventura 13.4 with Karabiner Elements version 14.12.0
 - macOS Montery with Karabiner Elements version 14.3
 - macOS High Sierra with Karabiner Elements version 12.10
