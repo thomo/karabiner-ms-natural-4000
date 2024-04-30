@@ -19,10 +19,11 @@ The mapping is defined for both option keys - left and right.
 - install Karabiner Elements
 - copy the file `ms_natural_4000_german.json` to `.config/karabiner/assets/complex_modifications`
 - (optional) swap the order of the windows and Alt keys; and Alt Gr and application keys - after doing this the order of the option and command key is the same as on a mac keyboard. ![swap option and command](swap_option_command.png)
-- (optional) On the __internal__ keyboard the keys (see picture) are swapped (key bottom left results in '^' instead of '<'). ![swapped keys](swapped_left_keys.png)
+- (optional) On the __internal__ keyboard the keys (see picture) are swapped (key bottom left results in '^' instead of '<'). 
+  ![swapped keys](swapped_left_keys.png)
   
-  With the following setting both keys are swapped back and behave like the external keyboard.
- ![swap left keys](swap_left_keys.png)
+- With the following setting both keys are swapped back and behave like the external keyboard.
+  ![swap left keys](swap_left_keys.png)
   
 ## Used/Tested on
 
